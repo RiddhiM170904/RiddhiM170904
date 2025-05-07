@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal Portfolio Website<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning CSS & DSA<br>
+🔭 I’m currently working on Personal Portfolio Website<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning JS & DSA<br>
 
 
 ## 🌐 Socials:
