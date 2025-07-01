@@ -1,5 +1,6 @@
 # 💫 About Me:
-Pursing B.Tech. Computer Science - Pre-Final Year Student <br>
+Pursing B.Tech. Computer Science at VIT BHOPAL <br>
+Pre-Final Year Student <br>
 🔭 I’m currently working on Konkan Diaries Website<br>👯 I’m looking to collaborate on LinkedIn & GithHub <br>🌱 I’m currently learning JS & DSA<br>
 
 
