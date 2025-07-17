@@ -2,7 +2,7 @@
 Pursing B.Tech. Computer Science at VIT BHOPAL <br>
 Pre-Final Year Student <br>
 Contributor in GSSoC’24 Extd, Hacktoberfest & SWOC<br>
-🔭 I’m currently working on Konkan Diaries Website<br>👯 I’m looking to collaborate on LinkedIn & GithHub <br>🌱 I’m currently learning JS & DSA<br>
+🔭 I’m currently working on Mini JS Projects <br>👯 I’m looking to collaborate on LinkedIn & GithHub <br>🌱 I’m currently learning JS & DSA<br>
 
 
 ## 🌐 Socials:
