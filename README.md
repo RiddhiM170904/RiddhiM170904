@@ -49,6 +49,12 @@
 
 ---
 
+# 📊 LeetCode Stats 
+
+[![Riddhi_Mhadgut's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Riddhi_Mhadgut&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
