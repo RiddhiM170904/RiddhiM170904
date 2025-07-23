@@ -17,7 +17,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://riddhi-mhadgut-portfolio.vercel.app/">
+  <a href="https://riddhi-mhadgut-portfolio.vercel.app/"><img src = "https://www.flaticon.com/free-icon/woman_16683439"></a>
   <a href="https://instagram.com/riddhi_mdt"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/riddhi-mhadgut-3b0a21289"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:riddhimhadgut17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
