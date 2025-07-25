@@ -8,7 +8,7 @@
 🚀 **Pre-Final Year Student** & Passionate Coder <br>
 🌟 **Open Source Contributor** (GSSoC’24 Extd, Hacktoberfest, SWOC)<br>
 🤝 Always excited to connect & collaborate on [LinkedIn](https://linkedin.com/in/riddhi-mhadgut-3b0a21289) & [GitHub](https://github.com/RiddhiM170904)!<br>
-🌱 **Learning Journey:** JavaScript • Data Structures & Algorithms<br>
+🌱 **Learning Journey:** JavaScript • Data Structures & Algorithms • Designing <br>
 <br>
 ✨ _Let's innovate, learn, and grow together!_ ✨
 
