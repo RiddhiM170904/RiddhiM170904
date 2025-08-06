@@ -1,3 +1,6 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/8bc991f5-3bb1-4275-9fd3-a9177f746abe" />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3A1C71&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Riddhi+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Welcome animated header"/>
 </p>
@@ -70,4 +73,15 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=RiddhiM170904&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiddhiM1709094/RiddhiM1709094/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiddhiM1709094/RiddhiM1709094/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RiddhiM1709094/RiddhiM1709094/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<div style="font-style: italic; font-size: 18px; color:#70a1ff; margin-bottom: 20px;">
+  Aiming For Moon you will achieve stars 💫 
+</div>
 ---
