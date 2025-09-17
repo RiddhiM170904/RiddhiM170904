@@ -6,7 +6,7 @@
 <!-- Text overlay -->
 <div style="position: relative; padding-top: 250px; z-index: 1;">
   <h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Riddhi Mhadgut</h1>
-  <h3>B.Tech. Computer Science and Engineering @ VITB'27 | Pre-Final Year Student | Open Source Contributor | Project Admin SSoC'25🚀</h3>
+  <h3>B.Tech. Computer Science and Engineering @ VITB'27 | Pre-Final Year Student | Open Source Contributor | Project Admin at SSoC'25🚀</h3>
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3A1C71&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Riddhi+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing animation" />
