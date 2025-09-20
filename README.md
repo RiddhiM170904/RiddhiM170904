@@ -110,6 +110,6 @@
 </p>
 
 <div style="font-style: italic; font-size: 18px; color: #70a1ff; margin-bottom: 20px;">
-  Aiming For Moon you will achieve stars 💫
+
 </div>
 </div>
